@@ -13,6 +13,8 @@ This repository shows how to get Chainlink price feeds on Hedera using the Chain
    npx hardhat test
    ```
 
+   ![alt text](assets/console-output.png)
+
 ## Local Setup
 
 1. Clone the repository
